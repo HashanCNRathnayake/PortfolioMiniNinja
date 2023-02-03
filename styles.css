@@ -1,0 +1,158 @@
+
+.menu{
+    padding-top: 5px;
+    height: 30px;
+    position: fixed;
+    background: rgba(53, 51, 51, 0.801);
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    
+}
+
+.menuli{
+    
+    list-style: none;
+    display: inline;
+    padding-left: 30px;
+    padding-right: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+}
+
+/* .menua{} */
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+#sec1{
+    padding-top: 40px;
+    background-image: url("src/1386514.jpg");
+    padding-bottom: 10px;
+    
+
+}
+#sec2{
+    padding-top: 40px;
+    background-color: rgb(180, 197, 80);
+    padding-bottom: 80px;
+    
+
+}
+
+#sec22{
+    padding-top: 40px;
+    background-color: rgb(80, 150, 197);
+    padding-bottom: 80px;
+    
+
+}
+
+#sec3{
+    padding-top: 40px;
+    background-color: rgb(136, 92, 165);
+    padding-bottom: 90px;
+    
+
+}
+
+#sec4{
+    padding-top: 40px;
+    background-color: rgb(80, 150, 197);
+    padding-bottom: 80px;
+    
+
+}
+
+#sec5{
+    padding-top: 40px;
+    background-color: rgb(173, 161, 161);
+    padding-bottom: 80px;
+    
+
+}
+#sec6{
+    padding-top: 40px;
+    background-color: rgb(167, 103, 60);
+    padding-bottom: 80px;
+    
+
+}
+
+h1{
+    font-size: 60px;
+    font-variant: small-caps;
+    color: rgb(158, 125, 41);
+}
+
+h3{
+    font-size: 45px;
+    color: rgb(41, 92, 158);
+}
+
+h4{
+    font-size: 20px;
+    color: rgb(41, 154, 158);
+}
+
+#name{
+    background-color: darkgray;
+    width: fit-content;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-size: 40px;
+    font-variant: small-caps;
+    color: rgb(158, 41, 66);
+}
+
+.para{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+#proimg{
+    border-radius: 40%;
+    width: 25%;
+   
+}
+.charul{
+    list-style: none;
+}
+.charimg{
+    list-style: none;
+    width: 30%;
+   
+}
+
+.title{
+    background-color: rgba(88, 95, 93, 0.664);
+
+    font-size: 30px;
+    color: rgb(69, 30, 131);
+}
+
+
+.img{
+    width: 20%;
+}
+
+.con{
+    text-align: center;
+    list-style: none;
+}
+#icon{
+    font-size:48px;
+    color:rgb(124, 42, 106);
+}
+
+#icona{
+    color: aliceblue;
+    font-size: 30px;
+    text-decoration: none;
+}
